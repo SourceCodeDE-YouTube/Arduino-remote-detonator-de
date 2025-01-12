@@ -13,7 +13,7 @@ GND --> GND am Arduino/Am Breadboard
 IN --> Pin 22 am Arduino  
 
 **Passiver Piezo**  
-+ --> Pin 25 am Arduino  
+Plus markierte Seite --> Pin 25 am Arduino  
 GND --> GND am Arduino/Am Breadboard  
 
 Foto des Setups im main tree, ich nutze allerdings momentan anstatt einem Relais eine led.
