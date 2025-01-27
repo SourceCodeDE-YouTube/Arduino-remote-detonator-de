@@ -1,4 +1,4 @@
-**Dieses .ino script ist für den arduino. Die passende app für android ist als app.apk im main tree.
+**Dieses .ino script ist für den arduino. Der Countdown kann via folgender app getriggert werden, indem man On <Sekunden zahl> sendet. App: https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal
 Schaltplan:**  
 
 **HC06**  
@@ -16,4 +16,4 @@ IN --> Pin 22 am Arduino
 Plus markierte Seite --> Pin 25 am Arduino  
 GND --> GND am Arduino/Am Breadboard  
 
-Foto des Setups im main tree, ich nutze allerdings momentan anstatt einem Relais eine led.
+Foto des Setups im main tree!
