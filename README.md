@@ -16,4 +16,4 @@ IN --> Pin 22 am Arduino
 Plus markierte Seite --> Pin 25 am Arduino  
 GND --> GND am Arduino/Am Breadboard  
 
-Foto des Setups im main tree!
+Foto des Setups hier: https://github.com/SourceCodeDE-YouTube/Arduino-remote-detonator-de/blob/main/Schaltung.png
